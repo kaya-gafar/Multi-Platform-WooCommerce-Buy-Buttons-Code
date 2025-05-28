@@ -1,0 +1,5 @@
+.platform-buttons a.wp-block-button__link[href="#"],
+.platform-buttons a.wp-block-button__link[href=""],
+.platform-buttons a.wp-block-button__link:not([href]) {
+  display: none !important;
+}
